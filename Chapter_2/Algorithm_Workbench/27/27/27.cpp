@@ -15,7 +15,14 @@ using namespace std;
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    int speed = 20;
+    int time = 10;
+
+    int distance = speed * time;
+
+    cout << "The distance of speed " << speed << " and time " << time << " is " << distance;
+
+    return 0;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
