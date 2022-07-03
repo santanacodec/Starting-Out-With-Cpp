@@ -16,7 +16,7 @@ int main()
 
     double prediction = SALES * PERCENT_OF_TOTAL_SALES;
 
-    cout << "The sales prediciton for the Eas Coast division is: " << prediction << endl;
+    cout << "The sales prediciton for the East Coast division is: " << prediction << endl;
     return 0;
 }
 
